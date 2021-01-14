@@ -1,1 +1,116 @@
-<mxfile host="app.diagrams.net" modified="2021-01-14T14:00:27.805Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="14.2.3" etag="bMOxc_Neua8qjy5Z3uoT" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VhZc9MwEP41Hp5gfBQnecRp0wKhU2ihw6NiK7aI7DWynINfzyqWYzsOOYD0yDQv0a43K2m/b4/YcPrx/FKQNPoEAeWGbQZzwzk3bNuybQe/lGZRaLq9bqEIBQu0UaW4Zb+oVppam7OAZg1DCcAlS5tKH5KE+rKhI0LArGk2Bt7cNSUhbSlufcLb2nsWyEjfwu5U+ivKwqjc2XJ7xZOYlMb6JllEApjVVM6F4fQFgCxW8bxPuQpeGZf794t7Ppy4lx8+Zz/JV+/j3fW314WzwSE/WV1B0ET+X9d24XpKeK7jpe8qF2UABeRJQJUT03C8SMYclxYuf1ApFxpwkktAFQgZQQgJ4UOAVNuNIZHazFIyTYJ3CliURxz8SaEaMM71Hihp+y5KmRQwWWGnHKyAUMacjCj3iD8JlwftAweBjxJIqHIVIBn0XarDXVRab8/YagwyyIVPt9jpbJFEhHSbP7ewU+er8VQjd0khplIs0EBQTiSbNslMdE6EK7sKd1xo6A+ggdOiwZDEqcp6oFnySuJqBmKyhRsKl1nEJL1NyTJAMywnTb7UeYBX9UJOskyjuAPkw0CaUiHpfGtYy6euzu2yuGlxVlUKq0z/qFYlzswjAXHWAuI7Fs+XlPyXlHT3TMmyY+3MSU2Wkhh7p6j2dAMskTUTGI8zPNg6dVYb/j2b3rbYdA0tMu3G41nT7ZHI1DmMS9aT55L7hxbhcgyDNxK4CtUq5XkYIlnQXWI4g3btiiAe5dnudtHAWDFoQGLGVbyuKJ9SyXyyoakQzkLc99xHuKnYTB7ckiUhSm4l3S3JivX3iM2m02w2K7nebcwN3aZ7rG7TaWF6g+gV0NkmX+J7Yh3fsddA6D12y+/uU6SfdQl+8I5fVtPdLd/as0xr9phvHPw0CPT0p4DeXjPlyxhwHIbZpzYIlCes8cnL+ag9CYxykSwHAcjlyySwbRKwNzWhB50EykJYA/ULTQlDMM3hKc4B6//8z5zHngPKStGEgKuY2maRYSeGwfos5ljHwwDF6k1tUQqr993OxW8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-14T17:26:15.481Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="axyNf7nabnusTG1TKmk8" version="14.2.3" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="2068" dy="862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="t4_anC5pGneVWEJHBO61-3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-810" y="30" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="t4_anC5pGneVWEJHBO61-6" value="&lt;b&gt;Client&#39;s Computer&amp;nbsp;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-835" y="170" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="t4_anC5pGneVWEJHBO61-10" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBorderColor=none;labelBackgroundColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-735" y="-10" width="725" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="t4_anC5pGneVWEJHBO61-11" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Client&#39;s Automation Request to our Server&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-710" y="30" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="t4_anC5pGneVWEJHBO61-12" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t4_anC5pGneVWEJHBO61-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="100" as="sourcePoint" />
+            <mxPoint x="-710" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t4_anC5pGneVWEJHBO61-15" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-620" y="60" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="t4_anC5pGneVWEJHBO61-18" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Collection of requirements&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;labelBackgroundColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-560" y="30" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="t4_anC5pGneVWEJHBO61-21" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-470" y="60" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="t4_anC5pGneVWEJHBO61-29" value="&lt;span style=&quot;font-size: 13px&quot;&gt;Gets Process of Requirement&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;labelBackgroundColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-410" y="30" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="t4_anC5pGneVWEJHBO61-30" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-320" y="60" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="t4_anC5pGneVWEJHBO61-31" value="&lt;span style=&quot;font-size: 13px&quot;&gt;Connects our System Server by Node&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;labelBackgroundColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-260" y="30" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="t4_anC5pGneVWEJHBO61-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t4_anC5pGneVWEJHBO61-34" target="t4_anC5pGneVWEJHBO61-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-430" y="220" />
+              <mxPoint x="-430" y="130" />
+              <mxPoint x="-215" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t4_anC5pGneVWEJHBO61-34" value="Our Controller Node" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-370" y="170" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="t4_anC5pGneVWEJHBO61-36" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-270" y="210" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="t4_anC5pGneVWEJHBO61-37" value="&lt;span style=&quot;font-size: 13px&quot;&gt;Clients request Automation script will get performed&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;labelBackgroundColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-210" y="180" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="t4_anC5pGneVWEJHBO61-38" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-195" y="280" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="t4_anC5pGneVWEJHBO61-39" value="&lt;span style=&quot;font-size: 13px&quot;&gt;Required Automation task Output on Client demand&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;labelBackgroundColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-210" y="320" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="t4_anC5pGneVWEJHBO61-40" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=-180;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-270" y="350" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="t4_anC5pGneVWEJHBO61-41" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Get back &amp;amp; connect to Clent&#39;s Server to deliver requested script&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;labelBackgroundColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-360" y="320" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="t4_anC5pGneVWEJHBO61-42" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=-180;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-420" y="350" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="t4_anC5pGneVWEJHBO61-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t4_anC5pGneVWEJHBO61-43" target="t4_anC5pGneVWEJHBO61-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-465" y="300" />
+              <mxPoint x="-320" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t4_anC5pGneVWEJHBO61-43" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Connects to our Controller &amp;amp; Controller will delivered to the Client&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;labelBackgroundColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-510" y="320" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="t4_anC5pGneVWEJHBO61-45" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="30" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="t4_anC5pGneVWEJHBO61-46" value="&lt;b&gt;Our Automatic System&amp;nbsp; handler&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-5" y="170" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="t4_anC5pGneVWEJHBO61-47" value="" style="endArrow=classic;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="65" as="sourcePoint" />
+            <mxPoint x="-35" y="95" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t4_anC5pGneVWEJHBO61-55" value="Our Security Gateways" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-590" y="170" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="t4_anC5pGneVWEJHBO61-59" value="" style="endArrow=classic;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t4_anC5pGneVWEJHBO61-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-570" y="320" as="sourcePoint" />
+            <mxPoint x="-520" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-590" y="360" />
+              <mxPoint x="-590" y="320" />
+              <mxPoint x="-520" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
